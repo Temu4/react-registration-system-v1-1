@@ -1,2 +1,2 @@
-# react-registration-system-v1-1
+# react-registration-system
 Created with CodeSandbox
